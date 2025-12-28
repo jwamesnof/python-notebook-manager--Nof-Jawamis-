@@ -43,13 +43,17 @@ Notes are saved to a JSON file, ensuring they are retained even after the progra
 #### Notes Storage
 
 The program automatically creates and uses:
+
 My_Notes.json
+
 Do not delete this file if you want to keep your saved notes.
 
 #### Exit Program
 
 Choose option:
+
 0 - Exit
+
 The program will save your notes and close.
 
 
